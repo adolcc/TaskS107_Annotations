@@ -1,4 +1,5 @@
 **Java Annotations Exercises**
+
 This repository provides practical exercises exploring Java's Annotations, covering both built-in types and the creation and application of Custom Annotations. 
 These examples highlight how annotations provide valuable metadata and enable powerful runtime processing.
 
