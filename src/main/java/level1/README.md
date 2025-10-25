@@ -13,3 +13,8 @@ En los trabajadores presenciales, el método para calcular su sueldo, recibirá 
 
 
 En los trabajadores online, el método para calcular su sueldo recibirá por parámetro el número de horas trabajadas al mes. A la hora de calcular el sueldo se multiplicará el número de horas trabajadas por el precio/hora y se le sumará el precio de la tarifa plana de Internet, que será una constante de la clase Trabajador Online.
+
+Ejercicio 2  
+
+
+Añade a las clases hijas algunos métodos obsoletos (deprecated), y utiliza la anotación correspondiente. Invoca desde una clase externa los métodos obsoletos, suprimiendo mediante la correspondiente anotación los “warnings” para ser obsoletos.
